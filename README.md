@@ -40,15 +40,6 @@ The following prompts were used while developing this project:
 7. Explain how to securely use the Gemini API key using the Google Colab Secrets environment.
 8. Explain how to create `Prompt.txt` and `README.md` files for the project.
 
-## How to Run the Project
 
-1. Open the notebook in Google Colab.
-2. Install the required library.
-3. Add your Gemini API key (or configure it using Colab Secrets).
-4. Run all cells.
-5. Enter a question when prompted.
-6. The chatbot will generate a response.
 
-## Author
 
-Shruti Pathania
